@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeiBo5</string>
+
+    <string name="home">主页</string>
+    <string name="find">搜索</string>
+    <string name="pen">发微博</string>
+    <string name="letter">消息</string>
+    <string name="me">我的</string>
+</resources>
